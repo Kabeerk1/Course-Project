@@ -1,0 +1,23 @@
+Step 1: Download and Install Python
+1.	Go to the official Python website: https://www.python.org/downloads/
+2.	Download the latest stable version (preferably Python 3.12 or similar).
+3.	Run the installer.
+4.	Make sure to check the box that says "Add Python to PATH" during installation.
+5.	Complete the installation.
+6.	To verify, open Command Prompt or Terminal and run:
+python --version
+
+Step 2: Install Flask
+Once Python is installed, open Command Prompt or Terminal and run the following command to install Flask:
+pip install Flask
+To verify Flask installation, you can run:
+flask –version
+
+Step 3: Install Scikit-learn
+After installing Flask, install Scikit-learn by running:
+pip install scikit-learn
+To verify Flask installation, you can run:
+scikit-learn –version
+
+To run the Program
+python app.py
